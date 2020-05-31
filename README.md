@@ -2,7 +2,7 @@
 This is an implementation of the observer pattern for web analytics services.
 ___
 
-How to set allowed variables in an array:
+How to set allowed events in an array:
 ```
 metric.events = [
     "view_page_purchase",
@@ -10,7 +10,7 @@ metric.events = [
 ]
 ```
 
-How to set allowed variables in an array:
+How to set variables in an array:
 ```
 metric.vars = [
     "purchase_order_id",
