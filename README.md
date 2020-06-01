@@ -1,6 +1,8 @@
 # Web Analytics Observer
 This is an implementation of the observer pattern for web analytics services.
 ___
+**What problem does it solve?**
+If you install multiple web analytics services on your site, you often have multiple handlers for one event. It is difficult to track when an event changes, that in all handlers the code was updated. There's no such problem with this library.
 
 How to set allowed events in an array:
 ```
