@@ -1,4 +1,4 @@
-# Web Analytics Observer
+# metrika.js - is observer for web analytics
 This is an implementation of the observer pattern for web analytics services.
 ___
 **What problem does it solve?**
